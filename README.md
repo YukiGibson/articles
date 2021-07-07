@@ -2,10 +2,6 @@
 
 This is a compilation of articles, notes, documentation, training resources, and more found all around Reddit, GitHub, etc...
 
-Also, as a way to keep track of consumed courses or classes.
-
-Note: _I was tired of using browser bookmarks and Reddit's 'saved' feature. I just wanted that info centralized and quick to access._
-
 ### Containers
 #### Docker
 
