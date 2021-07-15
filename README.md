@@ -37,13 +37,13 @@ This is a compilation of articles, notes, documentation, training resources, and
 
 - [npm audit is broken by design](https://overreacted.io/npm-audit-broken-by-design/)
 
+#### _Streams_
+
+- [Testing streams](https://dev.to/cdanielsen/testing-streams-a-primer-3n6e)
+
 ### Refactoring
 
 - [Code Smells List](https://refactoring.guru/refactoring/smells)
-
-#### Streams
-
-- [Testing streams](https://dev.to/cdanielsen/testing-streams-a-primer-3n6e)
 
 ### Servers
 
