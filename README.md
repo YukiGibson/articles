@@ -1,4 +1,4 @@
-## Programming, Random References from the past, for the future :sunrise:.
+## Programming, Random References from the past, for the future :sunrise:
 
 This is a compilation of articles, notes, documentation, training resources, and more found all around Reddit, GitHub, etc...
 
@@ -64,3 +64,8 @@ This is a compilation of articles, notes, documentation, training resources, and
 ### Touch Typing
 
 - [Typing Study](https://www.typingstudy.com/) [Completed]
+
+### Events and Webhooks
+
+- [Events not Webhooks](https://blog.syncinc.so/events-not-webhooks)
+
