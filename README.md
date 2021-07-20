@@ -69,3 +69,7 @@ This is a compilation of articles, notes, documentation, training resources, and
 
 - [Events not Webhooks](https://blog.syncinc.so/events-not-webhooks)
 
+### Japanese
+
+- [Scripting Japan](https://wesleycrobertson.wordpress.com/free-resources/)
+
