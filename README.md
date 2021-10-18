@@ -65,6 +65,12 @@ This is a compilation of articles, notes, documentation, training resources, and
 
 - [Typing Study](https://www.typingstudy.com/) [Completed]
 
+
+### Web Development
+#### _Windowing_
+
+- [WinBox.js](https://nextapps-de.github.io/winbox/)
+
 ### Events and Webhooks
 
 - [Events not Webhooks](https://blog.syncinc.so/events-not-webhooks)
